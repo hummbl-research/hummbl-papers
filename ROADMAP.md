@@ -2,6 +2,8 @@
 
 Portfolio status, pre-registered backlog, and active work.
 
+> **DOI strategy:** Each paper gets its own Zenodo deposit (Pattern A). The GitHub→Zenodo webhook on this repo is reserved for future code/data releases only. See [docs/method/doi-strategy.md](docs/method/doi-strategy.md).
+
 ## Legend
 
 - **Status**: `PROPOSED` → `SCOPED` → `DRAFTING` → `REVIEW` → `SHIPPED`
@@ -10,11 +12,11 @@ Portfolio status, pre-registered backlog, and active work.
 
 ## Shipped (to be populated as papers are seeded)
 
-_First paper will be seeded here once the founder-mode paper-hardening session posts a done-STATUS and a paper is selected for Zenodo release._
+_First paper will be seeded here once the founder-mode paper-hardening session posts a done-STATUS and a paper is selected for publication. Each paper receives its own Zenodo deposit → own concept DOI._
 
-| # | Title | Claim | Method | DOI |
-|---|---|---|---|---|
-| — | — | — | — | — |
+| # | Title | Claim | Method | arXiv | Zenodo DOI |
+|---|---|---|---|---|---|
+| — | — | — | — | — | — |
 
 ## Hardening (in flight, founder-mode paper sprint)
 
